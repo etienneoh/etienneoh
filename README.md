@@ -1,13 +1,22 @@
 ## About me
-Hi, I’m @etienneoh ! A young developper interested in web development and software engineering. I'm currently studying computer science technologies in Quebec, Canada.
-Next, I'm going to do a software engineer bachelor's degree.
+Hi, I’m @etienneoh ! A young developper interested in web development 💻 and software engineering 👨‍💻. I'm currently studying computer science technologies in Quebec ⚜, Canada 🍁.
+Next, I'm going to do a software engineer bachelor's degree 📝.
 
-#### Languages I enjoy
+---
+#### Projects I'm working on:
+>These are advancing slowly during my free time, as I'm working as an IT solutions architect part-time and studying full-time.
+- A custom portfolio website, without any framework, with libraries such as Three.js and Anime.js
+- A companion app for the tabletop game Munckin using React.js
+- A non-intrusive family app for ease of communications using Flutter
+
+#### Languages I enjoy:
 1. C#
 2. Dart
 3. Python
 4. HTML/CSS/Javscript
 
+
+*Please feel free to send a message my way if you are on an open-source project looking for help !*
 ---
 
 > The most effective way to do it, is to do it. -Amelia Earhart
