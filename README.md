@@ -4,8 +4,9 @@ Next, I'm going to do a software engineer bachelor's degree.
 
 #### Languages I enjoy
 1. C#
-2. Python
-3. HTML/CSS/Javscript
+2. Dart
+3. Python
+4. HTML/CSS/Javscript
 
 ---
 
