@@ -7,7 +7,6 @@ Next, I'm going to do a software engineer bachelor's degree 📝.
 >These are advancing slowly during my free time, as I'm working as an IT solutions architect part-time and studying full-time.
 - A custom portfolio website, without the use of any framework, using libraries such as Three.js and Anime.js.
 - A companion app for the tabletop game Munckin using React.js.
-- A non-intrusive family app for ease of communications using Flutter.
 - A web app using Appsmith to compare two NHL players for fantasy hockey purposes.
 
 #### Languages I enjoy:
