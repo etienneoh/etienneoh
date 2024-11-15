@@ -3,8 +3,9 @@ Hi, I’m @etienneoh ! A young developper interested in web development 💻 and
 
 ---
 #### Projects I'm working on:
->These are advancing slowly during my free time, as I'm working as an IT solutions architect part-time and studying full-time.
+>These are advancing slowly during my free time, as I'm studying full-time.
 - A custom portfolio website, without the use of any framework, using libraries such as Three.js and Anime.js.
+- A multi-platform online markdown/LaTeX note taking app with change history.
 - A companion app for the tabletop game Munckin using React.js.
 - A web app using Appsmith to compare two NHL players for fantasy hockey purposes.
 
