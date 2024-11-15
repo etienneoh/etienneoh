@@ -1,6 +1,5 @@
 ## About me
-Hi, I’m @etienneoh ! A young developper interested in web development 💻 and software engineering 👨‍💻. I'm currently studying computer science technologies in Quebec ⚜, Canada 🍁.
-Next, I'm going to do a software engineer bachelor's degree 📝.
+Hi, I’m @etienneoh ! A young developper interested in web development 💻 and software engineering 👨‍💻. I'm currently studying software engineering at ETS in Montreal, Quebec ⚜.
 
 ---
 #### Projects I'm working on:
