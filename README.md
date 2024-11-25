@@ -11,8 +11,8 @@ Hi, I’m @etienneoh ! A young developper interested in web development 💻 and
 
 #### Languages I enjoy:
 1. C#
-2. Python
-3. HTML/CSS/Javscript
+2. HTML/CSS/Typescript
+3. Python
 
 
 *Please feel free to send a message my way if you are on an open-source project looking for help !*
